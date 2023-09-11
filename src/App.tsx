@@ -22,11 +22,10 @@ function App() {
         Citron & Schmitz <br />
         Immobilien Service GmbH <br />
         <br />
-        Goethestraße 32 <br />
+        Goethestraße 23 <br />
         34119 Kassel <br />
-        Tel.: 0561 / 1077-77 <br />
-        Fax.: 0561 / 1077-70 <br /> <br />
-        Eingetragen im Handelsregister das Amtsgericht Kassel, HRB folgt <br />
+        Tel.: 0173 / 5858021 <br /><br />
+        Eingetragen im Handelsregister das Amtsgericht Kassel, HRB 132 38 <br />
         Gesellschaftsform: GmbH <br />
         Geschäftsführender Gesellschafter: Peter Schmitz <br />
         <br />

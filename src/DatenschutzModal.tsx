@@ -199,7 +199,7 @@ export default function DatenschutzModal() {
       <p>Goethestraße 23</p>
       <p>34119 Kassel</p>
       <p>DE / Hessen</p>
-      <p>Tel.: 0561107777</p>
+      <p>Tel.: 0173-5858021</p>
       <p>E-Mail: info@citron-schmitz.de</p>
       <p>Website: www.citron-schmitz-partner.de</p>
 
